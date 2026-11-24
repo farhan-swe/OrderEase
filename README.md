@@ -11,7 +11,7 @@
 ## Table of Contents
 
   * 🌟 Introduction
-  * ✨ Features
+  * ✨ Features 
   * 🚀 Getting Started
       * Prerequisites
       * Installation Steps
