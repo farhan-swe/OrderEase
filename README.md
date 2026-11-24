@@ -1,7 +1,5 @@
 # OrderEase: Simple PHP & MySQL Tracking System
-[![GitHub license](https://img.shields.io/github/license/farhan-swe/OrderEase?style=for-the-badge)](https://github.com/farhan-swe/OrderEase/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/farhan-swe/OrderEase?style=for-the-badge)](https://github.com/farhan-swe/OrderEase/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/farhan-swe/OrderEase?style=for-the-badge)](https://github.com/farhan-swe/OrderEase/network/members)
+
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue?style=for-the-badge&logo=php)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![Built with HTML/CSS/JS](https://img.shields.io/badge/Built%20with-HTML%2FCSS%2FJS-red?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
